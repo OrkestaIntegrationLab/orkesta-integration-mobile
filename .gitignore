@@ -13,3 +13,30 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Archivos de sistema operativo
+Thumbs.db
+*.swp
+*.swo
+
+# Archivos de empaquetado
+*.apk
+*.ap_
+*.dex
+
+# Archivos de cobertura
+coverage/
+*.ec
+*.exec
+
+# Archivos de prueba
+test-output/
+*.xml
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos de Firebase y Google Services
+google-services.json
+firebase-debug.log
