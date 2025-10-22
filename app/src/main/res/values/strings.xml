@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">orkesta_mobile</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com\n</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_client">Clientes</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_pre_invoice">Pre-factura</string>
+    <string name="about_version">Versión</string>
+    <string name="about_company">Compañia</string>
+    <string name="dialog_close">Cerrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_title">Clientes</string>
+    <string name="no_associated_permissions_found">No tiene modulos disponibles</string>
+    <string name="title_activity_nav_main">NavMainActivity</string>
+    <string name="open_navigation_drawer">Abrir navegación</string>
+    <string name="close_navigation_drawer">Cerrar navegación</string>
+    <string name="main_error_get">Error al obtener los datos</string>
+    <string name="empty_resource"> </string>
+    <string name="document_type">Tipo</string>
+    <string name="result_not_found">Sin resultados</string>
+    <string name="filter">filtro</string>
+    <string name="error_load_client">Error cargando clientes</string>
+    <string name="dialog_Accept">Aceptar</string>
+    <string name="document_number">numero de documento</string>
+    <string name="reservation_number">numero documento</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="search_title">Buscar</string>
+    <string name="search_hint">Buscar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="create_client">Crear Cliente</string>
+    <string name="client_name">Nombres del cliente</string>
+    <string name="client_lastname">Apellidos del cliente</string>
+    <string name="client_mobile_number">Telefono</string>
+    <string name="client_email">Correo</string>
+    <string name="direction">Dirección</string>
+    <string name="char_count">50/100</string>
+    <string name="char_count_edit_text"> %1$s/%2$s</string>
+    <string name="main_error_client_post">Error al insertar el cliente</string>
+    <string name="error_save_client">Error al guardar cliente</string>
+    <string name="client_save_success">Cliente Insertado con éxito</string>
+
+
+    <plurals name="numberOfItinerary">
+        <item quantity="one">%d Cliente</item>
+        <item quantity="other">%d Clientes</item>
+    </plurals>
+
+</resources>
